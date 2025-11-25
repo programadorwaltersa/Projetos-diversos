@@ -3,7 +3,7 @@ idade = input("Digite a idade: ")
 peso = input("Digite o peso: ")
 altura = input("Digite a altura: ")
 testeAluno = 12
-
+#teste novo codigo
 
 idade_int = int(idade)
 # Convertendo a o valor string de peso para float
